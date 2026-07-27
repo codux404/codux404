@@ -1,0 +1,41 @@
+# Baut den Contribution-Kalender als animiertes SVG und legt das
+# Ergebnis im Branch "output" ab. Dort holt die README es sich ab.
+
+name: Profile Assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # taeglich um 03:00 UTC
+  workflow_dispatch: # Button zum manuellen Starten im Actions-Tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # noetig zum Pushen des output-Branch
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render calendar and profile card
+        run: |
+          python scripts/contribution_calendar.py
+          python scripts/profile_card.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
