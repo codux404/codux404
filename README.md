@@ -6,13 +6,13 @@
   1. Public Repo anlegen, exakt so benannt wie dein Username
   2. Diesen Inhalt in dessen README.md
   3. Platzhalter ersetzen:
-     sed -i 's/YOUR_USERNAME/deinhandle/g; s/YOUR_NAME/Dein Name/g' README.md
+     sed -i 's/codux404/deinhandle/g; s/YOUR_NAME/Dein Name/g' README.md
   4. Optional: .github/workflows/snake.yml anlegen, dann im
      Actions-Tab einmal "Run workflow" druecken
   ============================================================
 -->
 
-# YOUR_NAME
+# Jan Hauschel
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3500&pause=1200&color=58A6FF&vCenter=true&width=520&height=30&lines=Computer+Science+%E2%80%94+dual+study+program;Java+today%2C+C+and+C%2B%2B+next" alt="" />
 
@@ -21,7 +21,7 @@
 ### Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codux404l&bg_color=00000000&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&hide_title=true&radius=6" alt="contribution activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codux404&bg_color=00000000&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&hide_title=true&radius=6" alt="contribution activity" />
 </div>
 
 <!-- Snake: erscheint erst, wenn der Workflow einmal gelaufen ist -->
@@ -55,6 +55,20 @@ self-hosted server to learn how things behave once they leave localhost.
 
 <img src="https://skillicons.dev/icons?i=arduino,vscode,visualstudio,git,docker,linux&theme=dark" alt="Arduino, VS Code, Visual Studio, Git, Docker, Linux" height="46" />
 
+### Selected Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [repo-name](https://github.com/codux404/repo-name) | One sentence, plain language, what problem it solves | Java |
+| [repo-name](https://github.com/codux404/repo-name) | One sentence | C++, ESP32 |
+| [repo-name](https://github.com/codux404/repo-name) | One sentence | Java, MySQL |
+
+### Currently
+
+- Working through C and C++ fundamentals
+- Building a sensor logger around the ESP32
+- Reading up on clean code and testing practices
+
 ### Stats
 
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=codux404&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=58A6FF&text_color=8B949E&hide=issues&include_all_commits=true&count_private=true" alt="GitHub stats" />
@@ -62,4 +76,4 @@ self-hosted server to learn how things behave once they leave localhost.
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; [Email](mailto:YOUR@MAIL.COM)
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; [Email](mailto:janhauschel@gmail.com)
