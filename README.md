@@ -1,14 +1,13 @@
 <!--
   ============================================================
-  GITHUB PROFILE README
+  GITHUB PROFILE README — codux404
   ------------------------------------------------------------
   SETUP
-  1. Public Repo anlegen, exakt so benannt wie dein Username
+  1. Public Repo "codux404" anlegen (exakt wie der Username)
   2. Diesen Inhalt in dessen README.md
-  3. Platzhalter ersetzen:
-     sed -i 's/codux404/deinhandle/g; s/YOUR_NAME/Dein Name/g' README.md
-  4. Optional: .github/workflows/snake.yml anlegen, dann im
-     Actions-Tab einmal "Run workflow" druecken
+  3. Noch offen: YOUR_NAME, LinkedIn-URL, Mail-Adresse,
+     Projekttabelle
+  Kein Workflow noetig — der Contribution-Kalender laedt direkt.
   ============================================================
 -->
 
@@ -21,16 +20,7 @@
 ### Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codux404&bg_color=00000000&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&hide_title=true&radius=6" alt="contribution activity" />
-</div>
-
-<!-- Snake: erscheint erst, wenn der Workflow einmal gelaufen ist -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/codux404/codux404/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codux404/codux404/output/snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/codux404/codux404/output/snake.svg" />
-  </picture>
+  <img src="https://ghchart.rshah.org/58a6ff/codux404" alt="codux404's contribution calendar" width="100%" />
 </div>
 
 ---
@@ -60,14 +50,10 @@ self-hosted server to learn how things behave once they leave localhost.
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [repo-name](https://github.com/codux404/repo-name) | One sentence, plain language, what problem it solves | Java |
-| [repo-name](https://github.com/codux404/repo-name) | One sentence | C++, ESP32 |
-| [repo-name](https://github.com/codux404/repo-name) | One sentence | Java, MySQL |
+
 
 ### Currently
 
-- Working through C and C++ fundamentals
-- Building a sensor logger around the ESP32
-- Reading up on clean code and testing practices
 
 ### Stats
 
