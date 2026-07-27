@@ -1,29 +1,35 @@
 <!--
   ============================================================
-  GITHUB PROFILE README — minimal edition
+  GITHUB PROFILE README
   ------------------------------------------------------------
   SETUP
-  1. Repo anlegen, exakt so benannt wie dein GitHub-Username
-     (public, mit README.md)
-  2. Diesen Inhalt in die README.md dieses Repos
-  3. Alle Platzhalter ersetzen:
+  1. Public Repo anlegen, exakt so benannt wie dein Username
+  2. Diesen Inhalt in dessen README.md
+  3. Platzhalter ersetzen:
      sed -i 's/YOUR_USERNAME/deinhandle/g; s/YOUR_NAME/Dein Name/g' README.md
-  4. .github/workflows/snake.yml anlegen (separate Datei) und
-     den Workflow einmal manuell im Actions-Tab starten
+  4. Optional: .github/workflows/snake.yml anlegen, dann im
+     Actions-Tab einmal "Run workflow" druecken
   ============================================================
 -->
 
 # YOUR_NAME
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3500&pause=1200&color=8B949E&vCenter=true&width=520&height=30&lines=Computer+Science+%E2%80%94+dual+study+program;Java+today%2C+C+and+C%2B%2B+next" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3500&pause=1200&color=58A6FF&vCenter=true&width=520&height=30&lines=Computer+Science+%E2%80%94+dual+study+program;Java+today%2C+C+and+C%2B%2B+next" alt="" />
 
 ---
 
+### Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codux404l&bg_color=00000000&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&hide_title=true&radius=6" alt="contribution activity" />
+</div>
+
+<!-- Snake: erscheint erst, wenn der Workflow einmal gelaufen ist -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-    <img alt="contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/codux404/codux404/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codux404/codux404/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/codux404/codux404/output/snake.svg" />
   </picture>
 </div>
 
@@ -43,24 +49,16 @@ self-hosted server to learn how things behave once they leave localhost.
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java" />
-<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=white&labelColor=0D1117" alt="C" />
-<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="C++" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,latex&theme=dark" alt="Java, C, C++, LaTeX" height="46" />
 
-**Tools**
+**Tools & Environments**
 
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117" alt="Linux" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=flat-square&logo=intellijidea&logoColor=white&labelColor=0D1117" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/PlatformIO-0D1117?style=flat-square&logo=platformio&logoColor=white&labelColor=0D1117" alt="PlatformIO" />
+<img src="https://skillicons.dev/icons?i=arduino,vscode,visualstudio,git,docker,linux&theme=dark" alt="Arduino, VS Code, Visual Studio, Git, Docker, Linux" height="46" />
 
 ### Stats
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=8B949E&text_color=8B949E&hide=issues&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&langs_count=6" alt="Top languages" />
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=codux404&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=58A6FF&text_color=8B949E&hide=issues&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codux404&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Top languages" />
 
 ### Contact
 
